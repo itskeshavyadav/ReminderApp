@@ -1,0 +1,6 @@
+{
+  "name": "Reminders",
+  "description": "Minimal smart reminder app with Gemini AI schedule suggestions, persistent nagging reminders, custom recurring intervals, voice quick add, Bixby action support, encrypted cloud sync, and home screen widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
